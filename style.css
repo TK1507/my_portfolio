@@ -180,7 +180,7 @@ li {
   .hamburger,
   .top-nav .close {
     display: block;
-    color: #fff;
+    color: #222;
     font-size: 2.3rem;
     padding: .5rem;
     cursor: pointer;
@@ -403,7 +403,8 @@ li {
 }
 
 .control .colors span:nth-child(1) {
-  background-color: var(--cyan);
+  
+  background-color: var(--blue);
 }
 
 .control .colors span:nth-child(2) {
@@ -415,7 +416,7 @@ li {
 }
 
 .control .colors span:nth-child(4) {
-  background-color: var(--blue);
+  background-color: var(--cyan);
 }
 
 
