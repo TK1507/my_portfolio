@@ -41,10 +41,10 @@
                         <li class="nav-item">
                             <a href="#home" class="nav-link scroll-link">Home</a>
                             <a href="#about" class="nav-link scroll-link">About</a>
-                            
+                            <!-- <a href="#services" class="nav-link scroll-link">Services</a> -->
                             <a href="#skills" class="nav-link scroll-link">Skills</a>
                             <a href="#blog" class="nav-link scroll-link">Project</a>
-                            
+                            <!-- <a href="#teams" class="nav-link scroll-link">Teams</a> -->
                             <a href="#contact" class="nav-link scroll-link">Contact</a>
                             <!-- Resume -->
                             <!-- <a href="https://github.com/TK1507/project_1">See more in github</a> -->
@@ -58,7 +58,8 @@
             </div>
         </nav>
 
-        
+        <!-- Header Image -->
+        <!-- <img src="./images/Hero-2.png" alt="" /> -->
 
         <!-- Hero -->
         <div class="hero">
@@ -131,7 +132,7 @@
                 <h2 class="intermediate">Intermediate</h2>
                 <div class="skill-image-container">
                     <img src="./resize_logo1.jpg" />
-                    
+                    <!-- <img src="/project1.jpg" alt="" /> -->
                 </div>
                 <div class="content">
                     <h4>เชี่ยวชาญระดับปานกลาง</h4>
